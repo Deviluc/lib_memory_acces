@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/debugger.dir/main.c.o CMakeFiles/debugger.dir/memory_access.c.o CMakeFiles/debugger.dir/vector.c.o CMakeFiles/debugger.dir/memory_search.c.o  -o debugger 
